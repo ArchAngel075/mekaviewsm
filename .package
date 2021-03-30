@@ -1,0 +1,8 @@
+{
+	required = {
+	},
+	title = 'Mekaviewsm',
+	repository = 'ArchAngel075/mekaviewsm',
+	description = [[Nifty tool for viewing and monitoring your mekanism factories!]],
+	license = 'NONE',
+}
